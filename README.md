@@ -10,7 +10,7 @@ to download, click the green down load button and download zip.
 
 ## requered mods 
 
-- ourcraft core v0.2.1                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
+- ourcraft core v0.2.2                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
 - AttributeFix v3.0.2                 [Curse](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 
 ## optional mods
