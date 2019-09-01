@@ -10,13 +10,15 @@ to download, click the green down load button and download zip.
 
 ## requered mods 
 
-- ourcraft core v0.2.1                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
+- ourcraft core v0.2.2                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
 - AttributeFix v3.0.2                 [Curse](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 
 ## optional mods
 
 - Just Enough Items (JEI) v6.0.0.10   [Curse](https://www.curseforge.com/minecraft/mc-mods/jei)
-- Xaero's Minimap v1.17.6             [Curse](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- Xaero's Minimap                     [Curse](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- Xaero's Worldmap                    [curse](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- Optifine                            [Original Author link](https://optifine.net/home)
 
 ## Authors
 
