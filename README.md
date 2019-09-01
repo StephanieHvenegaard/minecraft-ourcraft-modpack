@@ -17,6 +17,7 @@ to download, click the green down load button and download zip.
 
 - Just Enough Items (JEI) v6.0.0.10   [Curse](https://www.curseforge.com/minecraft/mc-mods/jei)
 - Xaero's Minimap v1.17.6             [Curse](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- Optifine                            [Original auther](https://optifine.net/home)
 
 ## Authors
 
