@@ -2,7 +2,7 @@
 
 last updated 2019.09.08
 
-the complete collection of the ourcraft modpack for minecraft 1.14.4 
+the complete collection of the ourcraft modpack for minecraft 1.14.4 forge 28.0.95
 
 there are two types the requered mods and optional, you must have the requered mods to play on the server. 
 
