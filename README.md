@@ -1,16 +1,20 @@
 # minecraft-ourcraft-modpack
 
-last updated 2019.08.18
+last updated 2019.09.08
 
 the complete collection of the ourcraft modpack for minecraft 1.14.4 
 
 there are two types the requered mods and optional, you must have the requered mods to play on the server. 
 
+if ypou choose to install optifine, most computers will double in frame rate and you can run costum shaders. 
+
 to download, click the green down load button and download zip.
+
+
 
 ## requered mods 
 
-- ourcraft core v0.2.2                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
+- ourcraft core v0.2.3                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
 - AttributeFix v3.0.2                 [Curse](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 
 ## optional mods
