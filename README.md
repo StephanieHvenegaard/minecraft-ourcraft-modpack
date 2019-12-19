@@ -10,8 +10,6 @@ if ypou choose to install optifine, most computers will double in frame rate and
 
 to download, click the green down load button and download zip.
 
-
-
 ## requered mods 
 
 - Ourcraft Timbery  	  - v1.0.0	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-timbery)
