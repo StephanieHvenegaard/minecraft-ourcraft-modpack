@@ -12,7 +12,7 @@ to download, click the green down load button and download zip.
 
 ## requered mods 
 
-- Ourcraft Timbery  	  - v1.0.0	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-timbery)
+- Ourcraft Timbery  	  - v1.2.0	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-timbery)
 - Ourcraft Core     	  - v0.2.6      [Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
 - AttributeFix        	  - v3.0.2      [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - FastLeafDecay     	  - v17         [Curse Forge](https://wwwa.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
