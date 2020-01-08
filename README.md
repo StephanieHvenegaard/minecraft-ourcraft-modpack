@@ -10,19 +10,22 @@ if ypou choose to install optifine, most computers will double in frame rate and
 
 to download, click the green down load button and download zip.
 
-
-
 ## requered mods 
 
-- ourcraft core v0.2.3                [Source](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
-- AttributeFix v3.0.2                 [Curse](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- Ourcraft Timbery  	  - v1.2.0	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-timbery)
+- Ourcraft Armory  	  - v0.9.1	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-armory)
+- Ourcraft Core     	  - v0.2.6      [Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
+- AttributeFix        	  - v3.0.2      [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- FastLeafDecay     	  - v17         [Curse Forge](https://wwwa.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
+- simplefarming     	  - v1.2.1	[Curse Forge](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- swingthroughgrass 	  - v1.3.2      [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
 
 ## optional mods
-
-- Just Enough Items (JEI) v6.0.0.10   [Curse](https://www.curseforge.com/minecraft/mc-mods/jei)
-- Xaero's Minimap                     [Curse](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
-- Xaero's Worldmap                    [curse](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
-- Optifine                            [Original Author link](https://optifine.net/home)
+- AppleSkin               - 1.0.13	[Curse Forge](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- Just Enough Items (JEI) - v6.0.0.10   [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/jei)
+- Xaero's Minimap	  - v1.19.1     [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- Xaero's Worldmap        - v1.5.2      [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)
+- Optifine                - v UF5            [Original Author link](https://optifine.net/home)
 
 ## Authors
 
