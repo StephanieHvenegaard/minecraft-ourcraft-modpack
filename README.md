@@ -13,8 +13,8 @@ to download, click the green down load button and download zip.
 ## requered mods 
 
 - Ourcraft Timbery  	  - v1.2.0	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-timbery)
-- Ourcraft Armory  	  - v0.9.1	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-armory)
-- Ourcraft Core     	  - v0.2.6      [Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
+- Ourcraft Armory  	  - v0.9.3	[Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-armory)
+- Ourcraft Core     	  - v0.4.0      [Git Hub](https://github.com/StephanieHvenegaard/minecraft-ourcraft-core)
 - AttributeFix        	  - v3.0.2      [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - FastLeafDecay     	  - v17         [Curse Forge](https://wwwa.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - simplefarming     	  - v1.2.1	[Curse Forge](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
