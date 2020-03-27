@@ -36,7 +36,7 @@ to download, click the green down load button and download zip.
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
-### 1.14.4 - 1.1.1
+### 1.14.4 - 1.3.2
 works with forge 28.1.114
 updated: 
  - map mods 
