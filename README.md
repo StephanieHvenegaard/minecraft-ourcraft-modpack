@@ -23,8 +23,6 @@ to download, click the green down load button and download zip.
 - Friendly Fire             - v 3.0.1           [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/friendly-fire)
 - Doggy Talents             - V 1.15.2.3        [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 - Respawnable Pets          - v 1.0.6.1         [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
-- Disc Holder                                   [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/disc-holder)
-- Inspirations                                  [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/inspirations/screenshots)
 - mmersive Engineering      - v 0.14-94         [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - mmersive Railroading      - v 1.17.3          [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/immersive-railroading)
 
