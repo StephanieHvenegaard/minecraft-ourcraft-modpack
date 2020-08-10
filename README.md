@@ -15,6 +15,11 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 2.1.0 -1.12.2
+fixed major issues with mod packs coursing unplayable levels of lag and client disconnects 
+- added Waystones for fast travel.
+- updated the installer to clear out old folders before installing.
+
 ### 2.0.1 - 1.12.2
 Changed version taging to make more sence 
 opgraded modpack to version 2. 
