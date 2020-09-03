@@ -15,6 +15,23 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 3.0.0 -1.12.2
+- added completly new delivary  system in the shape op the ourcraft launcher, this will handle launching ourcraft and updates from now on.
+- updated mods : 
+    - ourcraft 1.1.0
+- added new mods: 
+    - Compressed+Items-1.4
+    - ConcreteExtends-1.1.2_1.12
+    - creeperconfetti-1.4.2
+    - ElectroblobsWizardry-4.2.11-MC1.12.2
+    - outfox-0.1.5-mc1.12.2
+    - SnowRealMagic-0.3.3
+    - Vampirism-1.12.2-1.6.2
+    - VampirismIntegrations-1.12.2-1.3.0
+    - Vanilla+Builders+Extension-1.12.2-1.0.9
+- updated resourcepacks: 
+    - ourcraft-pack
+    
 ### 2.1.0 -1.12.2
 fixed major issues with mod packs coursing unplayable levels of lag and client disconnects 
 - added Waystones for fast travel.
