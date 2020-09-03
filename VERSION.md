@@ -23,7 +23,7 @@ jei_1.12.2-4.15.0.291.jar
 mcw-doors-1.0.0-mc1.12.2.jar
 naturalnetherportals-1.2.0-mc1.12.x.jar
 OptiFine_1.12.2_HD_U_F5.jar
-ourcraft-1.0.0.jar
+ourcraft-1.1.0.jar
 Quark-r1.6-179.jar
 questionablyimmersive-1.12.2-0.1.0.jar
 stackable-1.12.2-1.3.3.jar
