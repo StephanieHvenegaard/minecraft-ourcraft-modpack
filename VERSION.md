@@ -1,5 +1,5 @@
-1.1.0
-3.1.0
+1.2.0
+3.4.0
 
 Ourcraft-Pack.zip
 
@@ -18,6 +18,8 @@ Compressed+Items-1.4.jar
 ConcreteExtends-1.1.2_1.12.jar
 creeperconfetti-1.4.2.jar
 engineers_doors-1.12.2-0.8.0.jar
+ElectroblobsWizardry-4.2.11-MC1.12.2.jar
+VampirismIntegrations-1.12.2-1.3.0.jar
 FutureVersions+v1.3.0.2.jar
 ImmersiveEngineering-0.12-98.jar
 immersivepetroleum-1.12.2-1.1.9.jar
