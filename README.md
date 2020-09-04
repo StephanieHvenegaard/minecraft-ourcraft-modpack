@@ -15,6 +15,9 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 3.4.0 -1.12.2
+- varius bug fixes and tests for the new installation Software
+
 ### 3.0.0 -1.12.2
 - added completly new delivary  system in the shape op the ourcraft launcher, this will handle launching ourcraft and updates from now on.
 - updated mods : 
