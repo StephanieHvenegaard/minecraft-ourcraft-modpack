@@ -1,9 +1,11 @@
-1.2.0
-3.6.0
+1.3.0
+3.7.0
 
 Ourcraft-Pack.zip
 
 quark.cfg
+overpoweredarmorbar.cfg
+colorfulhealthbar.cfg
 
 aether_ii-1.12.2-0.3.0+build411-universal.jar
 AppleSkin-mc1.12-1.0.9.jar
@@ -17,31 +19,34 @@ BiomesOPlenty-1.12.2-7.0.1.2441.jar
 Bountiful-2.2.2.jar
 chiselsandbits-14.33.jar
 chococraft_1.12.2-0.9.8.0.jar
+colorfulhealthbar-0.0.4a.jar
 comforts-1.12.2-1.4.1.3.jar
 Compressed+Items-1.4.jar
 ConcreteExtends-1.1.2_1.12.jar
 creeperconfetti-1.4.2.jar
 ElectroblobsWizardry-4.2.11-MC1.12.2.jar
-engineers_doors-1.12.2-0.8.0.jar
+engineers_doors-1.12.2-0.8.0.jar        
 FamiliarFauna-1.12.2-1.0.11.jar
 FutureVersions+v1.3.0.2.jar
-ImmersiveEngineering-0.12-98.jarimmersivepetroleum-1.12.2-1.1.9.jar                                                                                     ImmersiveRailroading-1.7.3_1.12.2.jar                                                                                   
+ImmersiveEngineering-0.12-98.jar        
+immersivepetroleum-1.12.2-1.1.9.jar     
+ImmersiveRailroading-1.7.3_1.12.2.jar   
 immersivetech-1.12-1.3.10.jar
 IvToolkit-1.3.3-1.12.jar
 jei_1.12.2-4.15.0.291.jar
 mcw-doors-1.0.0-mc1.12.2.jar
-naturalnetherportals-1.2.0-mc1.12.x.jar
+naturalnetherportals-1.2.0-mc1.12.x.jar 
 OptiFine_1.12.2_HD_U_F5.jar
 ordinarycoins-1.12.2-1.5.jar
-ourcraft-1.1.1.jar
+ourcraft-1.2.0.jar
 outfox-0.1.5-mc1.12.2.jar
+overloadedarmorbar-1.0.4g.jar
 Quark-r1.6-179.jar
 questionablyimmersive-1.12.2-0.1.0.jar
 RoguelikeDungeons-1.12.2-1.8.0.jar
 rustic-1.1.6.jar
 SnowRealMagic-0.3.3.jar
 stackable-1.12.2-1.3.3.jar
-TheBetweenlands-3.6.2-universal.jar
 TrackAPI-1.2.jar
 twilightforest-1.12.2-3.10.1013.jar
 VampiresNeedUmbrellas-1.12.2-1.5.jar
@@ -53,4 +58,4 @@ Waystones_1.12.2-4.1.0.jar
 WearableBackpacks-1.12.2-3.1.4.jar
 wolfarmor-1.12.2-3.4.1.1.jar
 XaerosWorldMap_1.6.1_Forge_1.12.jar
-Xaeros_Minimap_20.12.1_Forge_1.12.jar  
+Xaeros_Minimap_20.12.1_Forge_1.12.jar
