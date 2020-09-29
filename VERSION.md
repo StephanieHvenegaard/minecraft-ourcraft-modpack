@@ -27,6 +27,7 @@ creeperconfetti-1.4.2.jar
 ElectroblobsWizardry-4.2.11-MC1.12.2.jar
 engineers_doors-1.12.2-0.8.0.jar        
 FamiliarFauna-1.12.2-1.0.11.jar
+Forgelin-1.8.4.jar
 FutureVersions+v1.3.0.2.jar
 ImmersiveEngineering-0.12-98.jar        
 immersivepetroleum-1.12.2-1.1.9.jar     
