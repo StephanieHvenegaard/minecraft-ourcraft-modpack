@@ -1,7 +1,12 @@
 1.3.2
-3.7.1
+3.7.2
 
-Ourcraft-Pack.zip
+Colonial CoachBuilder - pack.zip
+Draco Trainworks - Pack.zip
+Empty-pack.zip
+Gothic Prinsess - Pack.zip
+Internation - Pack.zip
+Seelowe Railway co - Pack.zip
 
 quark.cfg
 overpoweredarmorbar.cfg
@@ -31,7 +36,7 @@ Forgelin-1.8.4.jar
 FutureVersions+v1.3.0.2.jar
 ImmersiveEngineering-0.12-98.jar        
 immersivepetroleum-1.12.2-1.1.9.jar     
-ImmersiveRailroading-1.7.3_1.12.2.jar   
+ImmersiveRailroading-1.12.2-1.8.0.jar   
 immersivetech-1.12-1.3.10.jar
 IvToolkit-1.3.3-1.12.jar
 jei_1.12.2-4.15.0.291.jar
@@ -50,6 +55,7 @@ SnowRealMagic-0.3.3.jar
 stackable-1.12.2-1.3.3.jar
 TrackAPI-1.2.jar
 twilightforest-1.12.2-3.10.1013.jar
+UniversalModCore-1.12.2-forge-1.0.0.jar
 VampiresNeedUmbrellas-1.12.2-1.5.jar
 Vampirism-1.12.2-1.6.2.jar
 VampirismIntegrations-1.12.2-1.3.0.jar
