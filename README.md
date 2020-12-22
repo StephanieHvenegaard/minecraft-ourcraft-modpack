@@ -15,6 +15,10 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 3.7.2 - 1.12.2
+- updated : 
+    - Immersive railroading with assosiated mods 
+    - updated rail resourse packs.
 ### 3.7.1 - 1.12.2
 - updated : 
     - installer 1.3.1
