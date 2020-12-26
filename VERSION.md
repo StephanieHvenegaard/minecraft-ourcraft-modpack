@@ -1,12 +1,12 @@
 1.3.2
 3.7.4
 
-Colonial CoachBuilder - pack.zip
-Draco Trainworks - Pack.zip
-Empty-pack.zip
-Gothic Prinsess - Pack.zip
-Internation - Pack.zip
-Seelowe Railway co - Pack.zip
+Colonial-CoachBuilder-Pack.zip
+Draco-Trainworks-Pack.zip
+Empty-Pack.zip
+Gothic-Prinsess-Pack.zip
+Internation-Pack.zip
+Seelowe-Railway-Pack.zip
 
 quark.cfg
 overpoweredarmorbar.cfg
@@ -30,18 +30,18 @@ Compressed+Items-1.4.jar
 ConcreteExtends-1.1.2_1.12.jar
 creeperconfetti-1.4.2.jar
 ElectroblobsWizardry-4.2.11-MC1.12.2.jar
-engineers_doors-1.12.2-0.8.0.jar        
+engineers_doors-1.12.2-0.8.0.jar
 FamiliarFauna-1.12.2-1.0.11.jar
 Forgelin-1.8.4.jar
 FutureVersions+v1.3.0.2.jar
-ImmersiveEngineering-0.12-98.jar        
-immersivepetroleum-1.12.2-1.1.9.jar     
-ImmersiveRailroading-1.12.2-1.8.0.jar   
+ImmersiveEngineering-0.12-98.jar
+immersivepetroleum-1.12.2-1.1.9.jar
+ImmersiveRailroading-1.12.2-1.8.0.jar
 immersivetech-1.12-1.3.10.jar
 IvToolkit-1.3.3-1.12.jar
 jei_1.12.2-4.15.0.291.jar
 mcw-doors-1.0.0-mc1.12.2.jar
-naturalnetherportals-1.2.0-mc1.12.x.jar 
+naturalnetherportals-1.2.0-mc1.12.x.jar
 OptiFine_1.12.2_HD_U_F5.jar
 ordinarycoins-1.12.2-1.5.jar
 ourcraft-1.2.0.jar
