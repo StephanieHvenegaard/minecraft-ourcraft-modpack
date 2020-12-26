@@ -1,11 +1,11 @@
 2.0.0
 
-Colonial CoachBuilder - pack.zip
-Draco Trainworks - Pack.zip
-Empty-pack.zip
-Gothic Prinsess - Pack.zip
-Internation - Pack.zip
-Seelowe Railway co - Pack.zip
+Colonial-CoachBuilder-pack.zip
+Draco-Trainworks-Pack.zip
+Empty-Pack.zip
+Gothic-Prinsess-Pack.zip
+Internation-Pack.zip
+Seelowe-Railway-Pack.zip
 
 quark.cfg
 overpoweredarmorbar.cfg
