@@ -15,6 +15,11 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 3.8.1 - 1.12.2
+- changed 
+    - installer is now a java application.
+    - installer does not start the minecraft launcher no more it just updates the pack
+
 ### 3.7.3 - 1.12.2
 - fixed : 
     - missing files for immersive.
