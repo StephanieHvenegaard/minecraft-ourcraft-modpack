@@ -32,6 +32,7 @@ ElectroblobsWizardry-4.2.11-MC1.12.2.jar
 engineers_doors-1.12.2-0.8.0.jar
 FamiliarFauna-1.12.2-1.0.11.jar
 Forgelin-1.8.4.jar
+future-mc-1.12.2-0.2.4.1.jar
 FutureVersions+v1.3.0.2.jar
 ImmersiveEngineering-0.12-98.jar
 immersivepetroleum-1.12.2-1.1.9.jar
@@ -46,6 +47,7 @@ ordinarycoins-1.12.2-1.5.jar
 ourcraft-1.2.0.jar
 outfox-0.1.5-mc1.12.2.jar
 overloadedarmorbar-1.0.4g.jar
+Pam's+HarvestCraft+1.12.2zg.jar
 Quark-r1.6-179.jar
 questionablyimmersive-1.12.2-0.1.0.jar
 RoguelikeDungeons-1.12.2-1.8.0.jar
