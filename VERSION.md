@@ -1,10 +1,6 @@
 2.0.0
 
-<<<<<<< HEAD
 Colonial-CoachBuilder-Pack.zip
-=======
-Colonial-CoachBuilder-pack.zip
->>>>>>> 3.8.0-1.12.2
 Draco-Trainworks-Pack.zip
 Empty-Pack.zip
 Gothic-Prinsess-Pack.zip
