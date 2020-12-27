@@ -15,6 +15,10 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 3.8.2 - 1.12.2
+- added 
+    - pams havast craft 
+    - future versions mc
 ### 3.8.1 - 1.12.2
 - changed 
     - installer is now a java application.
