@@ -5,7 +5,7 @@ Draco-Trainworks-Pack.zip
 Empty-Pack.zip
 Internation-Pack.zip
 
-vampiresneedumbrellas-common.cfg
+vampiresneedumbrellas-common.toml
 overpoweredarmorbar.cfg
 colorfulhealthbar.cfg
 
