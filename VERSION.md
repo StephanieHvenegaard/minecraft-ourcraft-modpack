@@ -9,7 +9,8 @@ vampiresneedumbrellas-common.cfg
 overpoweredarmorbar.cfg
 colorfulhealthbar.cfg
 
-abnormals_core-1.16.4-3.0.6.jarAppleSkin-mc1.16.2-forge-1.0.14.jar
+abnormals_core-1.16.4-3.0.6.jar
+AppleSkin-mc1.16.2-forge-1.0.14.jar
 AutoRegLib-1.6-47.jar
 BiomesOPlenty-1.16.4-13.0.0.430-universal.jar
 caelus-forge-1.16.5-2.1.2.2.jar
