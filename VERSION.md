@@ -10,7 +10,6 @@ overpoweredarmorbar.cfg
 colorfulhealthbar.cfg
 
 abnormals_core-1.16.4-3.0.6.jar
-
 AppleSkin-mc1.16.2-forge-1.0.14.jar
 AutoRegLib-1.6-47.jar
 BiomesOPlenty-1.16.4-13.0.0.430-universal.jar
