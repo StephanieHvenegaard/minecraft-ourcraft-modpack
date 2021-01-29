@@ -8,6 +8,7 @@ Internation-Pack.zip
 vampiresneedumbrellas-common.toml
 overpoweredarmorbar.cfg
 colorfulhealthbar.cfg
+quark.cfg
 
 abnormals_core-1.16.4-3.0.6.jar
 AppleSkin-mc1.16.2-forge-1.0.14.jar
@@ -19,6 +20,7 @@ colorfulhealthbar-4.0.0-1.16.1.jar
 comforts-forge-1.16.4-4.0.1.0.jar
 curios-forge-1.16.4-4.0.3.5.jar
 curiouselytra-forge-1.16.5-4.0.2.0.jar
+engineersdecor-1.16.4-1.1.7.jar
 ImmersiveEngineering-1.16.4-4.1.2-129.jar
 ImmersivePetroleum-1.16.4-3.1.0-2.jar
 immersiveposts-1.16.3-3.0.0.jar
