@@ -8,6 +8,8 @@ Internation-Pack.zip
 vampiresneedumbrellas-common.cfg
 overpoweredarmorbar.cfg
 colorfulhealthbar.cfg
+quark.cfg
+vampirism-client.toml
 
 abnormals_core-1.16.4-3.0.6.jarAppleSkin-mc1.16.2-forge-1.0.14.jar
 AutoRegLib-1.6-47.jar
