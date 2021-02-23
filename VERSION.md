@@ -30,7 +30,7 @@ ImmersiveEngineering-1.16.4-4.1.2-129.jar
 ImmersivePetroleum-1.16.4-3.1.0-2.jar
 immersiveposts-1.16.3-3.0.0.jar
 ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar
-immersiveSteampunk-1.16.4-1.0.0.jar
+immersiveSteampunk-1.16.4-1.0.1.jar
 jei-1.16.4-7.6.1.65.jar
 JustEnoughResources-1.16.3-0.12.0.100.jar
 mcw-doors-1.0.1fix-mc1.16.4.jar
