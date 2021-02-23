@@ -1,12 +1,12 @@
 2.0.0
 
-Colonial-CoachBuilder-pack.zip
+Colonial-CoachBuilder-Pack.zip
 Draco-Trainworks-Pack.zip
 Empty-Pack.zip
 Internation-Pack.zip
 Ourcraft-Pack.zip
 
-vampiresneedumbrellas-common.cfg
+vampiresneedumbrellas-common.toml
 overpoweredarmorbar.cfg
 colorfulhealthbar.cfg
 quark.cfg
