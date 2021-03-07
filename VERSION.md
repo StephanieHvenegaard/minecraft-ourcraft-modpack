@@ -49,6 +49,5 @@ VampiresNeedUmbrellas-1.16.4-1.1.jar
 Vampirism-1.16.4-1.7.3.jar
 VampirismIntegrations-1.16.4-1.4.1.jar
 Waystones_1.16.3-7.3.1.jar
-Wyrmroost-1.16.3-1.2.11.jar
 XaerosWorldMap_1.11.9_Forge_1.16.5.jar
 Xaeros_Minimap_21.1.0_Forge_1.16.5.jar
