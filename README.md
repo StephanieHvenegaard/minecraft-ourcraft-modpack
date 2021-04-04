@@ -15,10 +15,11 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
-### 4.2.0 - 1.16.4
-- removed mod
+### 4.2.0 - 1.16.4 
+- Removed mods.
     - Wyrmroost-1.16.3-1.2.11.jar
-
+updated resourcepack.
+    - Ourcraft-pack
 ### 4.1.0 - 1.16.4 
 - added mods
     - astikorcarts-1.16.4-1.1.0.jar
