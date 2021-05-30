@@ -2,7 +2,7 @@
 
 the complete collection of the ourcraft modpack for season 2 
 
-Requeres minecraft 1.12.2 with forge 14.23.5.2847.
+Requeres minecraft 1.16.5 with forge 36.1.2.4.
 
 the installetion process for this season has been helped with and custom installer. 
 
@@ -15,6 +15,41 @@ inside modpack you will find Ourcraft-installer.exe, run this program and it wil
 - 3rd party develupers, links are provided to original curse uploads.
 
 ## Change Log
+### 5.0.0 - 1.16.5
+Updated to 1.16.5 with season 2. 
+- added mods: 
+    - abnormals_core-1.16.5-3.1.1.jar
+    - AppleSkin-mc1.16.2-forge-1.0.14.jar
+    - Aquaculture-1.16.5-2.1.19.jar
+    - astikorcarts-1.16.5-1.1.1.jar
+    - AttributeFix-1.16.4-9.0.5.jar
+    - caelus-forge-1.16.5-2.1.3.0.jar
+    - chiselsandbits-0.3.4-RELEASE.jar
+    - curioofundying-forge-1.16.5-5.2.0.0.jar
+    - curios-forge-1.16.5-4.0.5.1.jar
+    - curiouselytra-forge-1.16.5-4.0.2.3.jar
+    - customizableelytra-1.16.4-1.4.4.jar
+    - extraboats-1.16.5-2.1.0.jar
+    - FarmersDelight-1.16.5-0.4.3.jar
+    - ImmersiveEngineering-1.16.5-5.0.0-135.jar
+    - ImmersivePetroleum-1.16.5-3.3.0-4.jar
+    - ImmersiveRailroading-1.16.4-forge-1.8.0.1.jar
+    - immersiveSteampunk-1.16.4-1.0.2.jar
+    - jei-1.16.4-7.6.1.65.jar
+    - Kobolds.jar
+    - mcw-doors-1.0.2-mc1.16.5.jar
+    - OptiFine_1.16.5_HD_U_G8.jar
+    - overloadedarmorbar-5.1.0.jar
+    - SpartanWeaponry-1.16.4-2.1.0-beta-4.jar
+    - ToolBelt-1.16.5-1.16.0.jar
+    - TrackAPI-1.16.4-forge-1.2.1.jar
+    - UniversalModCore-1.16.4-forge-1.0.1.jar
+    - VampiresNeedUmbrellas-1.16.5-1.1.2.jar
+    - Vampirism-1.16.4-1.7.10.jar
+    - voicechat-1.16.5-1.3.9.jar
+    - XaerosWorldMap_1.14.1_Forge_1.16.5.jar
+    - Xaeros_Minimap_21.9.0.1_Forge_1.16.5.jar
+
 ### 4.2.0 - 1.16.4 
 - Removed mods.
     - Wyrmroost-1.16.3-1.2.11.jar
